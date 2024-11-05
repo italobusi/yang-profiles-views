@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Problem Statement for YANG model profiles and views"
+abbrev: "YANG profiles and views"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-busi-netmod-yang-profiles-views-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
