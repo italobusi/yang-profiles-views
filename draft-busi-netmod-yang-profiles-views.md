@@ -25,7 +25,7 @@ venue:
 
 author:
  -
-    fullname: "italobusi"
+    fullname: "Italo Busi"
     organization: Your Organization Here
     email: "italo.busi@huawei.com"
 
